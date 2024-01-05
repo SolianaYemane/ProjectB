@@ -14,7 +14,7 @@ public class DemoB {
    public static void add(int a,int b, int c) {
 	System.out.println(a+b+c);  
 }  
-	 //coming from getHub
+	 //coming from getHub second
    public static void subtract(int a,int b) {
 	System.out.println(a-b);  
 }  
